@@ -5,6 +5,7 @@
         }
     },
     "firmwares": {
-        "Firmware 15.0.1": "https://mega.nz/file/RO52WDjB#5u57gNfLxbTeZ4IgjoOdY-ynCpGJEw8FY1pf_J7oJLU"
+        "Firmware 15.0.1": "https://mega.nz/file/Id5jyRTB#PulAyz8IcSyiR-s6KYb-TwG719YxmxpzvO4utrEMaIs",
+        "Firmware 15.0.1 (mirror - much slower)": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2015.0.1%20%28Rebootless%20Update%29.zip"
     }
 }
