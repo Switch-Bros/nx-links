@@ -1,11 +1,11 @@
 {
     "cfws": {
         "Atmosphere": {
-            "Kefir 664": "https://github.com/rashevskyv/kefir/releases/download/664/kefir664.zip"
+            "Kefir 665": "https://github.com/rashevskyv/kefir/releases/download/665/kefir665.zip"
         }
     },
     "firmwares": {
-        "Firmware 15.0.1": "https://mega.nz/file/Id5jyRTB#PulAyz8IcSyiR-s6KYb-TwG719YxmxpzvO4utrEMaIs",
-        "Firmware 15.0.1 (mirror - much slower)": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2015.0.1%20%28Rebootless%20Update%29.zip"
+        "Firmware 15.0.1": "https://mega.nz/file/Id5jyRTB#PulAyz8IcSyiR-s6KYb-TwG665YxmxpzvO4utrEMaIs",
+        "Firmware 15.0.1 (mirror - much slower)": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%6655.0.1%20%28Rebootless%20Update%29.zip"
     }
 }
