@@ -5,7 +5,9 @@
         }
     },
     "firmwares": {
-        "Firmware 15.0.1": "https://mega.nz/file/Id5jyRTB#PulAyz8IcSyiR-s6KYb-TwG665YxmxpzvO4utrEMaIs",
-        "Firmware 15.0.1 (mirror - much slower)": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%6655.0.1%20%28Rebootless%20Update%29.zip"
+        "Recommended: 15.0.1": "https://mega.nz/file/Id5jyRTB#PulAyz8IcSyiR-s6KYb-TwG719YxmxpzvO4utrEMaIs",
+        "Rocommended: 15.0.1 (alternative link, slower download speed)": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2015.0.1%20%28Rebootless%20Update%29.zip",
+        "16.0.0": "https://mega.nz/file/IB5SyYYJ#ZES4plxEGqLzsN2sX8spGF0KGhqcNWvh6VxY2WQIlIQs",
+        "16.0.0 (alternative link, slower download speed)": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2016.0.0.zip"
     }
 }
