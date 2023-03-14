@@ -1,5 +1,0 @@
-PyGithub
-python-gitlab
-xmltodict
-requests
-beautifulsoup4
