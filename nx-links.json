@@ -5,7 +5,7 @@
         }
     },
     "firmwares": {
-        "16.0.2": "https://mega.nz/file/8MZG2AyR#hXH02mA8mKo_AFaWuvA9UsrV9eX_-B7tSpvbJH3GQXI",
-        "16.0.2 (alternative link, slower download speed)": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2016.0.2.zip"
+        "16.0.3": "https://mega.nz/file/xW4y1ChQ#G9AZ7cbvwkE3_ouPcIcb9U9QzYxVgduHtAbQSP4cLgM",
+        "16.0.3 (alternative link)": "https://github.com/THZoria/NX_Firmware/releases/download/16.0.3/Firmware.16.0.3.zip"
     }
 }
