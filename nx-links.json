@@ -5,6 +5,7 @@
         }
     },
     "firmwares": {
+        "16.1.0": "https://mega.nz/file/oOhWDZwR#GTFjB7ktUS0kLWqubDTO37ornUsNl6URJrRUKY3vveA",
         "16.0.3": "https://mega.nz/file/8ERnDTLC#QajQWkb6GBrpCmDw4NhhX4ztumSaXU1PK4SrMbKDy4k",
         "16.0.3 (alternative link)": "https://github.com/THZoria/NX_Firmware/releases/download/16.0.3r2/Firmware.16.0.3.Rebootless.Update.2.zip",
         "16.0.3 (alternative link; slower)": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2016.0.3%20%28Rebootless%20Update%29.zip"
