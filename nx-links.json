@@ -1,13 +1,28 @@
 {
     "cfws": {
         "Atmosphere": {
-            "Kefir 714": "https://github.com/rashevskyv/kefir/releases/download/714/kefir714.zip"
+            "SwitchBros_Paket 121 (STABIL)": "https://github.com/Switch-Bros/SwitchBros_BasisPaket/releases/download/121/SwitchBros_BasisPaket.zip"
+            
+        },
+        "entwicklung": {
+            "SwitchBros_Paket 122 BETA": "https://github.com/Switch-Bros/nx-links/releases/download/1/SwitchBros_BasisPaket.zip",
+            "SwitchBros_Paket 122 TESTGEBIET -sysmodule": "https://github.com/Switch-Bros/nx-links/releases/download/1/SwitchBros_BasisPaket_test.zip"
         }
     },
+    "payloads": {
+        "AllgemeinerProblemLoeser": "https://github.com/Switch-Bros/nx-links/releases/download/1/AllgemeinerProblemLoeser.bin",
+        "SBOS fusee.bin 1.6.1": "https://github.com/Switch-Bros/nx-links/releases/download/1/fusee.bin",
+        "SBOS hekate.bin 6.0.7_SB": "https://github.com/Switch-Bros/nx-links/releases/download/1/hekate.bin",
+        "Enigma_RCM.bin 1.10.1": "https://github.com/Switch-Bros/nx-links/releases/download/1/Enigma_RCM.bin",
+        "TegraExplorer.bin 4.1.1.112": "https://github.com/Switch-Bros/nx-links/releases/download/1/TegraExplorer.bin"
+    },
     "firmwares": {
-        "17.0.0": "https://github.com/THZoria/NX_Firmware/releases/download/17.0.0/Firmware.17.0.0.zip",
-        "17.0.0 (alternative link)": "https://mega.nz/file/QVRASLTA#r6aBlAhRV4duiefvgNzAl4hQwKyPNuoRZfPIMERG_DA",
-        "17.0.0 (alternative link; slower)": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2017.0.0.zip",
-        "16.1.0": "https://github.com/THZoria/NX_Firmware/releases/download/16.1.0/Firmware.16.1.0.zip"
+        "Firmware 16.1.0 (schnellste GitHub.com)":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/16.1.0/Firmware_16.1.0.zip",
+        "Firmware 16.1.0 (schnell mega.nz)":"https://mega.nz/file/K75T1bgL#2jb1lT8laSHtfLsVvyBtYjMR76jB4mu_lSi-ZwdGWYY",
+        "Firmware 17.0.0 (schnellste GitHub.com)":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/17.0.0/Firmware17.0.0.zip",
+        "Firmware 17.0.0 (schnell mega.nz)":"https://mega.nz/file/QVRASLTA#r6aBlAhRV4duiefvgNzAl4hQwKyPNuoRZfPIMERG_DA"
+    },
+    "hekate_ipl": {
+        "hekate_ipl.ini": "https://github.com/Switch-Bros/nx-links/releases/download/1/hekate_ipl.ini"
     }
 }
