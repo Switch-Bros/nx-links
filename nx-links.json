@@ -1,12 +1,12 @@
 {
     "cfws": {
         "Atmosphere": {
-            "SwitchBros_Paket 122 (STABIL)": "https://github.com/Switch-Bros/SwitchBros_BasisPaket/releases/download/122/SwitchBros_BasisPaket.zip"
+            "SwitchBros_Paket 123 (STABIL)": "https://github.com/Switch-Bros/SwitchBros_BasisPaket/releases/download/123/SwitchBros_BasisPaket.zip"
             
         },
         "entwicklung": {
-            "SwitchBros_Paket 123 BETA": "https://github.com/Switch-Bros/nx-links/releases/download/1/SwitchBros_BasisPaket.zip",
-            "SwitchBros_Paket 123 TESTGEBIET -sysmodule": "https://github.com/Switch-Bros/nx-links/releases/download/1/SwitchBros_BasisPaket_test.zip"
+            "SwitchBros_Paket 124 BETA": "https://github.com/Switch-Bros/nx-links/releases/download/1/SwitchBros_BasisPaket.zip",
+            "SwitchBros_Paket 124 TESTGEBIET -sysmodule": "https://github.com/Switch-Bros/nx-links/releases/download/1/SwitchBros_BasisPaket_test.zip"
         }
     },
     "payloads": {
