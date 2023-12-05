@@ -17,9 +17,7 @@
         "TegraExplorer.bin 4.1.1.112": "https://github.com/Switch-Bros/nx-links/releases/download/1/TegraExplorer.bin"
     },
     "firmwares": {
-        "Firmware 16.1.0 (von SB)":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/16.1.0/Firmware_16.1.0.zip",
-        "Firmware 16.1.0 (von THZoria)":"https://github.com/THZoria/NX_Firmware/releases/download/16.1.0/Firmware.16.1.0.zip",
-        "Firmware 16.1.0 (von darthsternie)":"https://mega.nz/file/K75T1bgL#2jb1lT8laSHtfLsVvyBtYjMR76jB4mu_lSi-ZwdGWYY",
+        "Firmware 17.0.1":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/17.0.1/Firmware_17.0.1.zip",
         "Firmware 17.0.0 (von SB)":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/17.0.0/Firmware_17.0.0.zip",
         "Firmware 17.0.0 (von THZoria)":"https://github.com/THZoria/NX_Firmware/releases/download/17.0.0/Firmware.17.0.0.zip",
         "Firmware 17.0.0 (von darthsternie)":"https://mega.nz/file/QVRASLTA#r6aBlAhRV4duiefvgNzAl4hQwKyPNuoRZfPIMERG_DA"
