@@ -6,8 +6,7 @@
     },
     "firmwares": {
         "17.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/17.0.1/Firmware.17.0.1.zip",
-        "17.0.0 (alternative link)": "https://mega.nz/file/QVRASLTA#r6aBlAhRV4duiefvgNzAl4hQwKyPNuoRZfPIMERG_DA",
-        "17.0.0 (alternative link; slower)": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2017.0.0.zip",
-        "16.1.0": "https://github.com/THZoria/NX_Firmware/releases/download/16.1.0/Firmware.16.1.0.zip"
+        "17.0.1 (alternative link)": "https://mega.nz/file/ZZABkaiI#idFS2nD_HqvZa-NG5s1odDr0c7RCGMm8exsLFagHyYA",
+        "17.0.1 (alternative link; slower)": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2017.0.1.zip"
     }
 }
