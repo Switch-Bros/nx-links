@@ -1,12 +1,13 @@
 {
     "cfws": {
         "Atmosphere": {
-            "SwitchBros_Paket 123 (STABIL)": "https://github.com/Switch-Bros/SwitchBros_BasisPaket/releases/download/123/SwitchBros_BasisPaket.zip"
+            "SwitchBros_Paket 123 (STABIL)": "https://github.com/Switch-Bros/SwitchBros_BasisPaket/releases/download/123/SwitchBros_BasisPaket.zip",
+            "SwitchBros_Paket 124 (BETA)": "https://github.com/Switch-Bros/SwitchBros_BasisPaket/releases/download/124/SwitchBros_BasisPaket.zip"
             
         },
         "entwicklung": {
-            "SwitchBros_Paket 124 BETA": "https://github.com/Switch-Bros/nx-links/releases/download/1/SwitchBros_BasisPaket.zip",
-            "SwitchBros_Paket 124 TESTGEBIET -sysmodule": "https://github.com/Switch-Bros/nx-links/releases/download/1/SwitchBros_BasisPaket_test.zip"
+            "SwitchBros_Paket 125 ALPHA": "https://github.com/Switch-Bros/nx-links/releases/download/1/SwitchBros_BasisPaket.zip",
+            "SwitchBros_Paket 125 TESTGEBIET -sysmodule": "https://github.com/Switch-Bros/nx-links/releases/download/1/SwitchBros_BasisPaket_test.zip"
         }
     },
     "payloads": {
@@ -18,9 +19,7 @@
     },
     "firmwares": {
         "Firmware 17.0.1":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/17.0.1/Firmware_17.0.1.zip",
-        "Firmware 17.0.0 (von SB)":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/17.0.0/Firmware_17.0.0.zip",
-        "Firmware 17.0.0 (von THZoria)":"https://github.com/THZoria/NX_Firmware/releases/download/17.0.0/Firmware.17.0.0.zip",
-        "Firmware 17.0.0 (von darthsternie)":"https://mega.nz/file/QVRASLTA#r6aBlAhRV4duiefvgNzAl4hQwKyPNuoRZfPIMERG_DA"
+        "Firmware 17.0.0 (von SB)":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/17.0.0/Firmware_17.0.0.zip"
     },
     "hekate_ipl": {
         "hekate_ipl.ini": "https://github.com/Switch-Bros/nx-links/releases/download/1/hekate_ipl.ini"
