@@ -2,19 +2,19 @@
     "cfws": {
         "Atmosphere": {
             "SwitchBros_Paket 123 (STABIL)": "https://github.com/Switch-Bros/SwitchBros_BasisPaket/releases/download/123/SwitchBros_BasisPaket.zip",
-            "SwitchBros_Paket 124 (BETA)": "https://github.com/Switch-Bros/SwitchBros_BasisPaket/releases/download/124/SwitchBros_BasisPaket.zip"
+            "SwitchBros_Paket 125 (BETA SBOS pre-release)": "https://github.com/Switch-Bros/SwitchBros_BasisPaket/releases/download/125/SwitchBros_BasisPaket.zip"
             
         },
         "entwicklung": {
-            "SwitchBros_Paket 125 ALPHA": "https://github.com/Switch-Bros/nx-links/releases/download/1/SwitchBros_BasisPaket.zip",
-            "SwitchBros_Paket 125 TESTGEBIET -sysmodule": "https://github.com/Switch-Bros/nx-links/releases/download/1/SwitchBros_BasisPaket_test.zip"
+            "SwitchBros_Paket 126 ALPHA": "https://github.com/Switch-Bros/nx-links/releases/download/1/SwitchBros_BasisPaket.zip",
+            "SwitchBros_Paket 126 TESTGEBIET -sysmodule": "https://github.com/Switch-Bros/nx-links/releases/download/1/SwitchBros_BasisPaket_test.zip"
         }
     },
     "payloads": {
         "AllgemeinerProblemLoeser": "https://github.com/Switch-Bros/nx-links/releases/download/1/AllgemeinerProblemLoeser.bin",
-        "SBOS fusee.bin 1.6.1": "https://github.com/Switch-Bros/nx-links/releases/download/1/fusee.bin",
-        "SBOS hekate.bin 6.0.7_SB": "https://github.com/Switch-Bros/nx-links/releases/download/1/hekate.bin",
-        "Enigma_RCM.bin 1.10.1": "https://github.com/Switch-Bros/nx-links/releases/download/1/Enigma_RCM.bin",
+        "SBOS fusee.bin 1.7.0": "https://github.com/Switch-Bros/nx-links/releases/download/1/fusee.bin",
+        "SBOS hekate.bin 6.1.1_SB": "https://github.com/Switch-Bros/nx-links/releases/download/1/hekate.bin",
+        "Enigma_RCM.bin 1.9.12": "https://github.com/Switch-Bros/nx-links/releases/download/1/Enigma_RCM.bin",
         "TegraExplorer.bin 4.1.1.112": "https://github.com/Switch-Bros/nx-links/releases/download/1/TegraExplorer.bin"
     },
     "firmwares": {
