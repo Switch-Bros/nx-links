@@ -1,12 +1,11 @@
 {
     "cfws": {
         "Atmosphere": {
-            "Kefir 731": "https://github.com/rashevskyv/kefir/releases/download/731/kefir731.zip"
+            "Kefir 733": "https://github.com/rashevskyv/kefir/releases/download/733/kefir733.zip"
         }
     },
     "firmwares": {
-        "17.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/17.0.1/Firmware.17.0.1.zip",
-        "17.0.1 (alternative link)": "https://mega.nz/file/ZZABkaiI#idFS2nD_HqvZa-NG5s1odDr0c7RCGMm8exsLFagHyYA",
-        "17.0.1 (alternative link; slower)": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2017.0.1.zip"
+        "18.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/18.0.1/Firmware.18.0.1.zip",
+        "18.0.1 (alternative link)": "https://mega.nz/file/xKYj1CLZ#cuVzXPxef4xf1ghtubmf3TgS24tIZyZJF_fnZn-5BeI"
     }
 }
