@@ -6,7 +6,7 @@
     },
     "firmwares": {
         "18.1.0": "https://github.com/THZoria/NX_Firmware/releases/download/18.1.0/Firmware.18.1.0.zip",
-        "18.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/18.0.1/Firmware.18.0.1.zip",
-        "18.0.1 (alternative link)": "https://mega.nz/file/xKYj1CLZ#cuVzXPxef4xf1ghtubmf3TgS24tIZyZJF_fnZn-5BeI"
+        "18.1.0 (alternative link)": "https://mega.nz/file/GZ0nBC7a#REMExzNKf8C2S2RvJ0QyPmwZgrScqb9KamxsfLPkAYs",
+        "18.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/18.0.1/Firmware.18.0.1.zip"
     }
 }
