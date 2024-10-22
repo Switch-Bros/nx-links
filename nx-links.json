@@ -12,10 +12,11 @@
     },
     "payloads": {
         "AllgemeinerProblemLoeser": "https://github.com/Switch-Bros/nx-links/releases/download/1/AllgemeinerProblemLoeser.bin",
-        "SBOS fusee.bin 1.7.0": "https://github.com/Switch-Bros/nx-links/releases/download/1/fusee.bin",
-        "SBOS hekate.bin 6.1.1_SB": "https://github.com/Switch-Bros/nx-links/releases/download/1/hekate.bin",
-        "Enigma_RCM.bin 1.9.12": "https://github.com/Switch-Bros/nx-links/releases/download/1/Enigma_RCM.bin",
-        "TegraExplorer.bin 4.1.1.112": "https://github.com/Switch-Bros/nx-links/releases/download/1/TegraExplorer.bin"
+        "SBOS fusee.bin 1.8.0": "https://github.com/Switch-Bros/nx-links/releases/download/1/fusee.bin",
+        "SBOS hekate.bin 6.2.2_SB": "https://github.com/Switch-Bros/nx-links/releases/download/1/hekate.bin",
+        "Enigma_RCM.bin 1.9.13": "https://github.com/Switch-Bros/nx-links/releases/download/1/Enigma_RCM.bin",
+        "Lockpick_RCM.bin 1.9.13": "https://github.com/Switch-Bros/nx-links/releases/download/1/Lockpick_RCM.bin",
+        "TegraExplorer.bin 4.2.1": "https://github.com/Switch-Bros/nx-links/releases/download/1/TegraExplorer.bin"
     },
     "firmwares": {
         "Firmware 17.0.1":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/17.0.1r/Firmware_17.0.1_RebootlessUpdate.zip",
