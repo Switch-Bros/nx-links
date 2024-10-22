@@ -1,12 +1,29 @@
 {
     "cfws": {
         "Atmosphere": {
-            "Kefir 754": "https://github.com/rashevskyv/kefir/releases/download/754/kefir754.zip"
+            "SwitchBros_Paket 124 (FW 17)": "https://github.com/Switch-Bros/SwitchBros_BasisPaket/releases/download/124/SwitchBros_BasisPaket.zip",
+            "SwitchBros_Paket 125 (FW 18)": "https://github.com/Switch-Bros/SwitchBros_BasisPaket/releases/download/125/SwitchBros_BasisPaket.zip",
+            "SwitchBros_Paket 126 (FW 18/19)": "https://github.com/Switch-Bros/SwitchBros_BasisPaket/releases/download/126/SwitchBros_BasisPaket.zip"
+            
+        },
+        "entwicklung": {
+            "TEST SwitchBros_Paket 12x (FW xx)": "https://github.com/Switch-Bros/SwitchBros_BasisPaket/releases/download/126/SwitchBros_BasisPaket.zip"
         }
     },
+    "payloads": {
+        "AllgemeinerProblemLoeser": "https://github.com/Switch-Bros/nx-links/releases/download/1/AllgemeinerProblemLoeser.bin",
+        "SBOS fusee.bin 1.8.0": "https://github.com/Switch-Bros/nx-links/releases/download/1/fusee.bin",
+        "SBOS hekate.bin 6.2.2_SB": "https://github.com/Switch-Bros/nx-links/releases/download/1/hekate.bin",
+        "Enigma_RCM.bin 1.9.13": "https://github.com/Switch-Bros/nx-links/releases/download/1/Enigma_RCM.bin",
+        "Lockpick_RCM.bin 1.9.13": "https://github.com/Switch-Bros/nx-links/releases/download/1/Lockpick_RCM.bin",
+        "TegraExplorer.bin 4.2.1": "https://github.com/Switch-Bros/nx-links/releases/download/1/TegraExplorer.bin"
+    },
     "firmwares": {
-        "18.1.0": "https://github.com/THZoria/NX_Firmware/releases/download/18.1.0/Firmware.18.1.0.zip",
-        "18.1.0 (alternative link)": "https://mega.nz/file/GZ0nBC7a#REMExzNKf8C2S2RvJ0QyPmwZgrScqb9KamxsfLPkAYs",
-        "18.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/18.0.1/Firmware.18.0.1.zip"
+        "Firmware 17.0.1":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/17.0.1r/Firmware_17.0.1_RebootlessUpdate.zip",
+        "Firmware 18.0.1 NUR für Paket 125+":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/18.0.1/Firmware_18.0.1.zip",
+        "Firmware 18.1.0 NUR für Paket 125+":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/18.1.0r/Firmware_18.1.0_RebootlessUpdate.zip"
+    },
+    "hekate_ipl": {
+        "hekate_ipl.ini": "https://github.com/Switch-Bros/nx-links/releases/download/1/hekate_ipl.ini"
     }
 }
