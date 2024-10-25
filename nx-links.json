@@ -1,8 +1,6 @@
 {
     "cfws": {
         "Atmosphere": {
-            "SwitchBros_Paket 124 (FW 17)": "https://github.com/Switch-Bros/SwitchBros_BasisPaket/releases/download/124/SwitchBros_BasisPaket.zip",
-            "SwitchBros_Paket 125 (FW 18)": "https://github.com/Switch-Bros/SwitchBros_BasisPaket/releases/download/125/SwitchBros_BasisPaket.zip",
             "SwitchBros_Paket 126 (FW 18/19)": "https://github.com/Switch-Bros/SwitchBros_BasisPaket/releases/download/126/SwitchBros_BasisPaket.zip"
             
         },
