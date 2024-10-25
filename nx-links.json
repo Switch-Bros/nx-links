@@ -1,7 +1,7 @@
 {
     "cfws": {
         "Atmosphere": {
-            "SwitchBros_Paket 126 (FW 18/19)": "https://github.com/Switch-Bros/SwitchBros_BasisPaket/releases/download/126/SwitchBros_BasisPaket.zip"
+            "SwitchBros_Paket 126": "https://github.com/Switch-Bros/SwitchBros_BasisPaket/releases/download/126/SwitchBros_BasisPaket.zip"
             
         },
         "entwicklung": {
@@ -17,9 +17,7 @@
         "TegraExplorer.bin 4.2.1": "https://github.com/Switch-Bros/nx-links/releases/download/1/TegraExplorer.bin"
     },
     "firmwares": {
-        "Firmware 17.0.1":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/17.0.1r/Firmware_17.0.1_RebootlessUpdate.zip",
-        "Firmware 18.0.1 NUR für Paket 125+":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/18.0.1/Firmware_18.0.1.zip",
-        "Firmware 18.1.0 NUR für Paket 125+":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/18.1.0r/Firmware_18.1.0_RebootlessUpdate.zip"
+        "Firmware 18.1.0":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/18.1.0r/Firmware_18.1.0_RebootlessUpdate.zip"
     },
     "hekate_ipl": {
         "hekate_ipl.ini": "https://github.com/Switch-Bros/nx-links/releases/download/1/hekate_ipl.ini"
