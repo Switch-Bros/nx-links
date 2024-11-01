@@ -17,7 +17,9 @@
         "TegraExplorer.bin 4.2.1": "https://github.com/Switch-Bros/nx-links/releases/download/1/TegraExplorer.bin"
     },
     "firmwares": {
-        "Firmware 18.1.0":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/18.1.0r/Firmware_18.1.0_RebootlessUpdate.zip"
+        "Firmware 18.1.0":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/18.1.0r/Firmware_18.1.0_RebootlessUpdate.zip",
+		"Firmware 19 NUR nutzen wenn man Probleme selbst beheben kann":"https://github.com/Switch-Bros",
+		"Firmware 19.0.1":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/19.0.1/Firmware_19.0.1.zip"
     },
     "hekate_ipl": {
         "hekate_ipl.ini": "https://github.com/Switch-Bros/nx-links/releases/download/1/hekate_ipl.ini"
