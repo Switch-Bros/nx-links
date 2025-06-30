@@ -5,8 +5,7 @@
         }
     },
     "firmwares": {
-        "19.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/19.0.1/Firmware.19.0.1.zip",
-        "18.1.0": "https://github.com/THZoria/NX_Firmware/releases/download/18.1.0/Firmware.18.1.0.zip",
-        "18.1.0 (alternative link)": "https://mega.nz/file/GZ0nBC7a#REMExzNKf8C2S2RvJ0QyPmwZgrScqb9KamxsfLPkAYs"
+        "20.1.5": "https://github.com/THZoria/NX_Firmware/releases/download/20.1.5/Firmware.20.1.5.zip",
+        "19.0.1 (recommended)": "https://github.com/THZoria/NX_Firmware/releases/download/19.0.1/Firmware.19.0.1.zip"
     }
 }
