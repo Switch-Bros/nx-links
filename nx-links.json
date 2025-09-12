@@ -1,11 +1,24 @@
 {
     "cfws": {
         "Atmosphere": {
-            "Kefir 776": "https://github.com/rashevskyv/kefir/releases/download/776/kefir776.zip"
+            "SwitchBros_Paket 128": "https://github.com/Switch-Bros/SwitchBros_BasisPaket/releases/latest/download/SwitchBros_BasisPaket.zip"
+        },
+        "entwicklung": {
+            "TEST SwitchBros_Paket 129 (FW xx)": "https://github.com/Switch-Bros/nx-links/releases/download/2/SwitchBros_BasisPaket.zip"
         }
     },
+    "payloads": {
+        "AllgemeinerProblemLoeser": "https://github.com/Switch-Bros/nx-links/releases/download/1/AllgemeinerProblemLoeser.bin",
+        "SBOS fusee.bin 1.9.3": "https://github.com/Switch-Bros/nx-links/releases/download/1/fusee.bin",
+        "SBOS hekate.bin 6.3.1_SB": "https://github.com/Switch-Bros/nx-links/releases/download/1/hekate.bin",
+        "Enigma_RCM.bin 1.9.15": "https://github.com/Switch-Bros/nx-links/releases/download/1/Enigma_RCM.bin",
+        "TegraExplorer.bin 4.2.1": "https://github.com/Switch-Bros/nx-links/releases/download/1/TegraExplorer.bin"
+    },
     "firmwares": {
-        "20.3.0": "https://github.com/THZoria/NX_Firmware/releases/download/20.4.0/Firmware.20.4.0.zip",
-        "19.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/19.0.1/Firmware.19.0.1.zip"
+        "Firmware 19.0.1":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/19.0.1/Firmware_19.0.1.zip",
+		"Firmware 20.4.0":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/20.4.0/Firmware_20.4.0.zip"
+    },
+    "hekate_ipl": {
+        "hekate_ipl.ini": "https://github.com/Switch-Bros/nx-links/releases/download/1/hekate_ipl.ini"
     }
 }
