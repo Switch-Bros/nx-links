@@ -1,7 +1,7 @@
 {
     "cfws": {
         "Atmosphere": {
-            "Kefir 787": "https://github.com/rashevskyv/kefir/releases/download/787/kefir787.zip",
+            "Kefir 790": "https://github.com/rashevskyv/kefir/releases/download/790/kefir790.zip",
             "Kefir 783 (only for emunand with 20.5.0FW or earlier)": "https://github.com/rashevskyv/kefir/releases/download/783/kefir783.zip"
         }
     },
