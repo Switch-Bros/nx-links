@@ -1,11 +1,7 @@
 {
     "cfws": {
         "Atmosphere": {
-<<<<<<< HEAD
             "Kefir 791": "https://github.com/rashevskyv/kefir/releases/download/791/kefir791.zip",
-=======
-            "Kefir 791": "https://github.com/rashevskyv/kefir/releases/download/791/kefir791.zip",
->>>>>>> c14c0ddf0690056e1a00b7f0c63ca5e3e19dd791
             "Kefir 783 (only for emunand with 20.5.0FW or earlier)": "https://github.com/rashevskyv/kefir/releases/download/783/kefir783.zip"
         }
     },
