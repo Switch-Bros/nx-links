@@ -1,12 +1,26 @@
 {
     "cfws": {
         "Atmosphere": {
-            "Kefir 792": "https://github.com/rashevskyv/kefir/releases/download/792/kefir792.zip",
-            "Kefir 783 (only for emunand with 20.5.0FW or earlier)": "https://github.com/rashevskyv/kefir/releases/download/783/kefir783.zip"
+            "SwitchBros_Paket 132": "https://github.com/Switch-Bros/SwitchBros_BasisPaket/releases/latest/download/SwitchBros_BasisPaket.zip"
+        },
+        "entwicklung": {
+            "TEST SwitchBros_Paket 133 (FW xx)": "https://github.com/Switch-Bros/nx-links/releases/download/2/SwitchBros_BasisPaket.zip"
         }
     },
+    "payloads": {
+        "AllgemeinerProblemLoeser": "https://github.com/Switch-Bros/nx-links/releases/download/1/AllgemeinerProblemLoeser.bin",
+        "SBOS fusee.bin 1.10.1": "https://github.com/Switch-Bros/nx-links/releases/download/1/fusee.bin",
+        "SBOS hekate.bin 6.4.2_SB": "https://github.com/Switch-Bros/nx-links/releases/download/1/hekate.bin",
+        "Enigma_RCM.bin 1.9.16": "https://github.com/Switch-Bros/nx-links/releases/download/1/Enigma_RCM.bin",
+        "TegraExplorer.bin 4.2.1": "https://github.com/Switch-Bros/nx-links/releases/download/1/TegraExplorer.bin"
+    },
     "firmwares": {
-        "20.5.0": "https://github.com/THZoria/NX_Firmware/releases/download/20.5.0/Firmware.20.5.0.zip",
-        "19.0.1": "https://github.com/THZoria/NX_Firmware/releases/download/19.0.1/Firmware.19.0.1.zip"
+        "Firmware 19.0.1":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/19.0.1/Firmware_19.0.1.zip",
+		"Firmware 20.5.0":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/20.5.0/Firmware_20.5.0.zip",
+		"Firmware 21.0.1 (NICHT empfohlen)":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/21.0.1/Firmware_21.0.1.zip",
+		"Firmware 21.1.0 (NICHT empfohlen)":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/21.1.0/Firmware_21.1.0.zip"
+    },
+    "hekate_ipl": {
+        "hekate_ipl.ini": "https://github.com/Switch-Bros/nx-links/releases/download/1/hekate_ipl.ini"
     }
 }
