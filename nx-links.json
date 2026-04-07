@@ -19,7 +19,8 @@
 		"Firmware 20.5.0":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/20.5.0/Firmware_20.5.0.zip",
 		"Firmware 21.1.0":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/21.1.0/Firmware_21.1.0.zip",
 		"Firmware 21.2.0":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/21.2.0/Firmware_21.2.0.zip",
-		"Firmware 22.0.0":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/22.0.0/Firmware_22.0.0.zip"
+		"Firmware 22.0.0":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/22.0.0/Firmware_22.0.0.zip",
+		"Firmware 22.1.0":"https://github.com/Switch-Bros/Switch-Firmware/releases/download/22.1.0/Firmware_22.1.0.zip"
     },
     "hekate_ipl": {
         "hekate_ipl.ini": "https://github.com/Switch-Bros/nx-links/releases/download/1/hekate_ipl.ini"
